@@ -22,6 +22,8 @@
 #ifndef SRSLOG_LOGGER_H
 #define SRSLOG_LOGGER_H
 
+#include <array>
+
 #include "srslte/srslog/log_channel.h"
 
 namespace srslog {

@@ -19,6 +19,7 @@
  *
  */
 
+#include <stddef.h>
 #include "srslte/phy/common/timestamp.h"
 #include "math.h"
 

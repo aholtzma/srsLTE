@@ -27,6 +27,7 @@
 #ifndef SRSLTE_PHY_LOGGER_H
 #define SRSLTE_PHY_LOGGER_H
 
+#include <stddef.h>
 #include <errno.h>
 #include <pthread.h>
 #include <stdbool.h>
